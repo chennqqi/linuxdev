@@ -2,10 +2,10 @@
 
 
 ##Installl related
-yum install readline readline-devel readline-static -y
-yum install openssl openssl-devel openssl-static -y
-yum install sqlite-devel -y
-yum install bzip2-devel bzip2-libs -y
+sudo yum install readline readline-devel readline-static -y
+sudo yum install openssl openssl-devel openssl-static -y
+sudo yum install sqlite-devel -y
+sudo yum install bzip2-devel bzip2-libs -y
 
 
 ##Install pyenv
